@@ -1,12 +1,11 @@
 # Sentiment Analysis and Visualization using an US-election dataset for the 2020 Election
 
-Sudheer Alluri Indiana university
+Sudheer Alluri Indiana University fa20-523-316
 ngsudheer@gmail.com
 
-Vishwanadham Mandala Indiana university
+Vishwanadham Mandala Indiana University fa20-523-316
 vmandal@iu.edu
-  (vishwandh.mandala@gmail.com) Dataset: https://www.kaggle.com/tunguz/us-elections-dataset
-
+  (vishwandh.mandala@gmail.com) 
 
 {{% pageinfo %}}
 
