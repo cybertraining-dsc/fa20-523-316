@@ -1,4 +1,4 @@
-# Sentiment Analysis and Visualization using an US-election dataset for the 2020 Election.
+# Sentiment Analysis and Visualization using an US-election dataset for the 2020 Election
 
 Sudheer Alluri Indiana university
 ngsudheer@gmail.com
