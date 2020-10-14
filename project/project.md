@@ -11,7 +11,7 @@ vmandal@iu.edu
 
 ## Abstract
 
-TBD
+Sentiment analysis is an evaluation of the opinion of the speaker, writer or other subject with regard to some topic.We are going to use US-elections dataset and combining the tweets of people opninon for leading presidential candidates. We have various datasets from kallage and combining tweets and NY times datasets, by combining all data predication will be dervied.
 
 Contents
 
