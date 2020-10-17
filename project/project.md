@@ -1,11 +1,8 @@
 # Sentiment Analysis and Visualization using an US-election dataset for the 2020 Election
 
-Sudheer Alluri Indiana University fa20-523-316
-ngsudheer@gmail.com
+Sudheer Alluri Indiana University, fa20-523-316, ngsudheer@gmail.com
 
-Vishwanadham Mandala Indiana University fa20-523-316
-vmandal@iu.edu
-  (vishwandh.mandala@gmail.com) 
+Vishwanadham Mandala, Indiana University, fa20-523-325, vishwandh.mandala@gmail.com
 
 {{% pageinfo %}}
 
