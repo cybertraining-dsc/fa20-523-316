@@ -47,8 +47,25 @@ Our data-gathering and preparation methodology is composed of the following step
 
 ## 4. Technologies used
 
-Python, Jupyter notebook or collab, Pandas, Scikit-learn, PyTorch,
+Python, Jupyter notebook or collab, Pandas, Scikit-learn, PyTorch
 
-## 5. Refernces
+## 5. Plan for the rest of the Semseter
 
+October 26:
+. Furthur looking into new datasets and getting new twitter data. 
+. Brainstrom ideas for future engineering and build features
+. update the report.
+
+November 2:
+. Evalute deep learning frameworks (Kears, Pytorch, skict-learn)
+
+November 9:
 TBD
+
+November 16:
+TBD
+
+## 6. Refernces
+
+https://www.kaggle.com/kerneler/starter-2020-united-states-e6a4facf-a
+https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks
