@@ -57,7 +57,7 @@ October 26:
 . update the report.
 
 November 2:
-. Evalute deep learning frameworks (Kears, Pytorch, skict-learn)
+. Working on creating function to download the content. Remove the spaces in the project.
 
 November 9:
 TBD
