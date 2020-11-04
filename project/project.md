@@ -1,5 +1,7 @@
 # Sentiment Analysis and Visualization using an US-election dataset for the 2020 Election
 
+- [ ] please use proper refernce citations, they must be cited in text
+
 Sudheer Alluri, Indiana University, fa20-523-316, ngsudheer@gmail.com
 
 Vishwanadham Mandala, Indiana University, fa20-523-325, vishwandh.mandala@gmail.com
@@ -72,5 +74,6 @@ TBD
 
 ## 6. Refernces
 
-https://www.kaggle.com/kerneler/starter-2020-united-states-e6a4facf-a
-https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks
+[^1]: <https://www.kaggle.com/kerneler/starter-2020-united-states-e6a4facf-a>
+
+[^2[: <https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks>
