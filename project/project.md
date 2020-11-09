@@ -52,11 +52,20 @@ Our data-gathering and preparation methodology is composed of the following step
 * Data cleaning and extraction.
 * We will try to download the latest data from twitter and campaigning.
 
-## 4. Technologies used
+## 4. Development of Models
 
-Python, Jupyter notebook or collab, Pandas, Scikit-learn, PyTorch
+    Candident info
+    Age of Democratic primaries candidates
+    For some candidates it is very important to mention Women, but not for all. Added Country for reference.
+    Where are the Democratic Candidates coming from
+    Twitter Engagement, likes and retweets¶
+    Buzzwords for each candidate
 
-## 5. Plan for the rest of the Semseter
+## 5. Technologies used
+
+Python, Jupyter notebook or collab, Pandas, Scikit-learn
+
+## 6. Plan for the rest of the Semseter
 
 October 26:
 . Furthur looking into new datasets and getting new twitter data. 
@@ -67,12 +76,12 @@ November 2:
 . Working on creating function to download the content. Remove the spaces in the project.
 
 November 9:
-TBD
+Completed major part of the notebook, uploaded only neccessary files and modified the code.
 
 November 16:
 TBD
 
-## 6. Refernces
+## 7. Refernces
 
 [^1]: <https://www.kaggle.com/kerneler/starter-2020-united-states-e6a4facf-a>
 
