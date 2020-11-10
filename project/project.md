@@ -2,7 +2,9 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-316/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-316/actions)
 
-- [ ] please use proper refernce citations, they must be cited in text not cited: [^1] [^2]
+- [ ] please use proper refernce citations, they must be cited in text not cited: 
+
+[^1] [^2]
 
 Sudheer Alluri, Indiana University, fa20-523-316, ngsudheer@gmail.com
 
@@ -34,7 +36,7 @@ One might argue that these kinds of predictions will only be helping organizatio
 
 ## 2. DataSets
 
-We will be going to use the dataset, https://www.kaggle.com/tunguz/us-elections-dataset, and we will create the filets based on location. If needed, we may download Twitter data from posts on and by Donald Trump, Joe Biden, and their associates. Which leads us to our objective for the project, based on the data we collected, we should be able to predict the winner of the 2020 United States of America’s presidential elections.
+We will be going to use the dataset, <https://www.kaggle.com/tunguz/us-elections-dataset> [citation missing], and we will create the filets based on location. If needed, we may download Twitter data from posts on and by Donald Trump, Joe Biden, and their associates. Which leads us to our objective for the project, based on the data we collected, we should be able to predict the winner of the 2020 United States of America’s presidential elections.
 
 All of the data will be location-based and if required we will download realtime campaigning and debate analysis data, giving us a live and updated prediction every time increment. To strengthen the prediction, even more, we may reuse some code from the 2016 election’s analysis, however, our main focus will be using the latest data we readily acquire during the time leading up to the 2020 election.
 In conclusion, to make our predictions as realistic and as strong as we can get, we will be going to choose multiple data sets to integrate between the previous election and twitter data to predict the number of votes each candidate will acquire. Therefore, we will be predicting the winner of the 2020 presidential elections.
@@ -70,12 +72,12 @@ Python, Jupyter notebook or collab, Pandas, Scikit-learn
 ## 6. Plan for the rest of the Semseter
 
 October 26:
-. Furthur looking into new datasets and getting new twitter data. 
-. Brainstrom ideas for future engineering and build features
-. update the report.
+- Furthur looking into new datasets and getting new twitter data. 
+- Brainstrom ideas for future engineering and build features
+- update the report.
 
 November 2:
-. Working on creating function to download the content. Remove the spaces in the project.
+- Working on creating function to download the content. Remove the spaces in the project.
 
 November 9:
 Completed major part of the notebook, uploaded only neccessary files and modified the code.
@@ -86,6 +88,7 @@ TBD
 
 ## 7. Refernces
 
-[^1]: <https://www.kaggle.com/kerneler/starter-2020-united-states-e6a4facf-a>
+[^1]: missing text <https://www.kaggle.com/kerneler/starter-2020-united-states-e6a4facf-a>
 
-[^2]: <https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks>
+[^2]: missing text <https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks>
+
