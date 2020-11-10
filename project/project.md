@@ -87,4 +87,4 @@ TBD
 
 [^1]: <https://www.kaggle.com/kerneler/starter-2020-united-states-e6a4facf-a>
 
-[^2[: <https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks>
+[^2]: <https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks>
