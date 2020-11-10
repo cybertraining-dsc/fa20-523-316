@@ -2,7 +2,7 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-316/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-316/actions)
 
-- [ ] please use proper refernce citations, they must be cited in text
+- [ ] please use proper refernce citations, they must be cited in text not cited: [^1] [^2]
 
 Sudheer Alluri, Indiana University, fa20-523-316, ngsudheer@gmail.com
 
@@ -82,6 +82,7 @@ Completed major part of the notebook, uploaded only neccessary files and modifie
 
 November 16:
 TBD
+
 
 ## 7. Refernces
 
