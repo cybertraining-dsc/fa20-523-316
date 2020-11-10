@@ -1,5 +1,7 @@
 # Sentiment Analysis and Visualization using an US-election dataset for the 2020 Election
 
+[![Check Report](https://github.com/cybertraining-dsc/fa20-523-316/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-316/actions)
+
 - [ ] please use proper refernce citations, they must be cited in text
 
 Sudheer Alluri, Indiana University, fa20-523-316, ngsudheer@gmail.com
