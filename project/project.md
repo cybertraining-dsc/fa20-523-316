@@ -83,7 +83,8 @@ November 9:
 Completed major part of the notebook, uploaded only neccessary files and modified the code.
 
 November 16:
-TBD
+- Theoretical Results derived and compared with actual results.
+
 
 
 ## 7. Refernces
