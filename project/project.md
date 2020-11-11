@@ -69,7 +69,12 @@ Our data-gathering and preparation methodology is composed of the following step
 
 Python, Jupyter notebook or collab, Pandas, Scikit-learn
 
-## 6. Plan for the rest of the Semseter
+## 6. Results
+
+After all the data was collected, we ran the data analysis and arrived at these results. The analysis’ prediction favored Joe Biden to win this year’s election. However, President Trump was close behind. The predicted race included a very tight race, ending with Joe Biden breaking through. The actual presidential race this November seemed to be following the predicted trend, with Joe Biden taking a lead at the start and President Trump catching up by the first day’s end. The race continued to be tight for a couple of days, matching the general trend of the prediction. However, on November 7th, Biden broke through the stalemate and secured the elections. The prediction was close for most of the race, but the trend broke when Joe Biden won by a convincing lead.
+
+
+## 7. Plan for the rest of the Semseter
 
 October 26:
 - Furthur looking into new datasets and getting new twitter data. 
@@ -83,11 +88,11 @@ November 9:
 Completed major part of the notebook, uploaded only neccessary files and modified the code.
 
 November 16:
-- Theoretical Results derived and compared with actual results.
+- Theoretical results were derived and compared with actual results, posted at sub section 6.
 
 
 
-## 7. Refernces
+## 8. Refernces
 
 [^1]: missing text <https://www.kaggle.com/kerneler/starter-2020-united-states-e6a4facf-a>
 
