@@ -95,7 +95,7 @@ Reference image: <https://www.kaggle.com/radustoicescu/2020-united-states-presid
 Below is the example of extracing tweets and forming into graph to represent the data.
 Among the most frequent words in tweets dedicated to Donald Trump (excluding candidates' proper nouns) occur both popular election words: "vote", "election", "president","people", "Election Day", etc., and specific, like "MAGA" (Trump's tagline "Make America Great Again") or "die" (a word with negative sense). Specific words of tweets dedicated to Joe Biden: "Kamala Harris" (Vice President-elect of the United States), "BidenHarris", "win" (a word that is more frequent regarding Joe Biden than Donald Trump). Let's look at Bi and Tri n-grams of words.
     
-![Words used in  US Elections 2020](https://raw.github.com/cybertraining-dsc/fa20-523-316/blob/project/images/__results___53_0.png)
+![Words used in  US Elections 2020](https://raw.github.com/cybertraining-dsc/fa20-523-316/main/project/images/__results___53_0.png)
 
 **Figure 3:** Words used in US Elections 2020
     
