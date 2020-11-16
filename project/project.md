@@ -77,7 +77,7 @@ After all the data was collected, we ran the data analysis and arrived at these 
 
 **Figure 1:** Predicted results of US Elections 2020
 
-Reference imahe: https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks and edited it form my program.
+Reference image: https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks and edited it form our program.
 
 
 ## 7. Plan for the rest of the Semseter
