@@ -48,6 +48,9 @@ In this project we are analyzing twitter data of key presidential candidates and
 experiment. Our project mostly uses twitter data as support to the primary dataset.It is there to strengthen the already predicted result. The reason why we cannot make the twitter data set our primary data set is because the data(tweets) are mostly opinion based with only some exceptions. So we cannot predict with the twitter data,however, it
 can be used to show public support which will be vital in supporting the prediction derived from the primary data set.So, we found many twitter data sets on keggle and used certain parts from each to make our final four. The difference between the background sets and our final four datasets is the fact that their primary dataset was the twitter data while we used twitter data as our secondary dataset. We realized that twitter data is best used as secondary data that supports the primary dataset, which is more fact based.We can use three of the four OSoMe tools available: trends, networking, and maps. Trends and networking can be combined to find a group that involves every user that is taking part in the elections in some way. Mapping can show these users and their location. Giving us the area based result that we seek. However this method is already a part of our project .Due to the fact that all this data is in keggle in a wider array. Which gave us the option to condense into four large data sets.
 
+
+Have used the python lib pandas to get tweets and clean it in required format. Used libary seaborn to represent the details in graph and taken the screenshots from it.
+
 We will collect election data and twitter information and integrate both to predict the results. A lot of twitter or dataset data will be trimmed and parsed to build the model. We will calculate
 Our data-gathering and preparation methodology is composed of the following steps:
 
@@ -58,12 +61,16 @@ Our data-gathering and preparation methodology is composed of the following step
 
 ## 4. Development of Models
 
-    Candident info
+  Candident info
     Age of Democratic primaries candidates
     For some candidates it is very important to mention Women, but not for all. Added Country for reference.
     Where are the Democratic Candidates coming from
     Twitter Engagement, likes and retweets¶
     Buzzwords for each candidate
+    
+    Pandas: 
+    Used to extract the data and clean the tweets.
+    Seaboarn and matlab, used to represent the status of elections in the graphs.
 
 ## 5. Technologies used
 
@@ -73,14 +80,34 @@ Python, Jupyter notebook or collab, Pandas, Scikit-learn
 
 After all the data was collected, we ran the data analysis and arrived at these results. The analysis’ prediction favored Joe Biden to win this year’s election. However, President Trump was close behind. The predicted race included a very tight race, ending with Joe Biden breaking through. The actual presidential race this November seemed to be following the predicted trend, with Joe Biden taking a lead at the start and President Trump catching up by the first day’s end. The race continued to be tight for a couple of days, matching the general trend of the prediction. However, on November 7th, Biden broke through the stalemate and secured the elections. The prediction was close for most of the race, but the trend broke when Joe Biden won by a convincing lead.
 
-![Predicted results of US Elections 2020](https://github.com/cybertraining-dsc/fa20-523-316/blob/main/project/images/WomenCandidateMention.png)
+![Predicted results of US Elections 2020](https://github.com/cybertraining-dsc/fa20-523-316/raw/main/project/images/Electionresults.png)
+
+
 
 **Figure 1:** Predicted results of US Elections 2020
 
-Reference image: https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks and edited it form our program.
+![Liked Tweets of US Elections 2020](https://raw.github.com/cybertraining-dsc/fa20-523-316/raw/main/project/images/likedtweets.png)
+
+**Figure 2:** Liked Tweets of US Elections 2020
+
+Reference image: <https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks> and edited it form our program.
+
+Below is the example of extracing tweets and forming into graph to represent the data.
+Among the most frequent words in tweets dedicated to Donald Trump (excluding candidates' proper nouns) occur both popular election words: "vote", "election", "president","people", "Election Day", etc., and specific, like "MAGA" (Trump's tagline "Make America Great Again") or "die" (a word with negative sense). Specific words of tweets dedicated to Joe Biden: "Kamala Harris" (Vice President-elect of the United States), "BidenHarris", "win" (a word that is more frequent regarding Joe Biden than Donald Trump). Let's look at Bi and Tri n-grams of words.
+    
+![Words used in  US Elections 2020](https://raw.github.com/cybertraining-dsc/fa20-523-316/raw/main/project/images/__results___53_0.png)
+
+**Figure 3:** Words used in US Elections 2020
+    
+Reference image: <https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks> 
 
 
-## 7. Plan for the rest of the Semseter
+
+## 7.Conclusion
+
+So, we've taken a quick look at the sentiment of tweets. There are a lot of analysis variants. It looks great to study the tweets by each twitter account, for instance, but these features have a lot of NaN values, and therefore don't cover the actual situation. Based on the analysis from the twitter the predicted winner is projected.The sentiment analysis was performed only on data that had geo-data originating from the "United States of America" to try to ascertain the sentiment in each respective dataset and therefore each presidential candidate.
+
+## 8. Plan for the rest of the Semseter
 
 October 26:
 - Furthur looking into new datasets and getting new twitter data. 
@@ -98,9 +125,7 @@ November 16:
 
 
 
-## 8. Refernces
+## 9. Refernces
 
-[^1]: missing text <https://www.kaggle.com/kerneler/starter-2020-united-states-e6a4facf-a>
-
-[^2]: missing text <https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks>
+[^1]:Taken election dataset <https://www.kaggle.com/kerneler/starter-2020-united-states-e6a4facf-a>
 
