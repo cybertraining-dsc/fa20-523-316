@@ -73,6 +73,12 @@ Python, Jupyter notebook or collab, Pandas, Scikit-learn
 
 After all the data was collected, we ran the data analysis and arrived at these results. The analysis’ prediction favored Joe Biden to win this year’s election. However, President Trump was close behind. The predicted race included a very tight race, ending with Joe Biden breaking through. The actual presidential race this November seemed to be following the predicted trend, with Joe Biden taking a lead at the start and President Trump catching up by the first day’s end. The race continued to be tight for a couple of days, matching the general trend of the prediction. However, on November 7th, Biden broke through the stalemate and secured the elections. The prediction was close for most of the race, but the trend broke when Joe Biden won by a convincing lead.
 
+![Predicted results of US Elections 2020](https://github.com/cybertraining-dsc/fa20-523-316/blob/master/project/images/Electionresults.png)
+
+**Figure 1:** Predicted results of US Elections 2020
+
+Reference imahe: https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks and edited it form my program.
+
 
 ## 7. Plan for the rest of the Semseter
 
