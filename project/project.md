@@ -60,7 +60,10 @@ Our data-gathering and preparation methodology is composed of the following step
 
 ## 4. Development of Models
 
-  Candident info
+Our approach to find the information of candidates and get the age, tweets information and what are the key words used and what words are liked more.
+Based on liked tweets and buzz words used, we are predicting the winner.
+
+  Candidents infomration collected are:
     Age of Democratic primaries candidates
     For some candidates it is very important to mention Women, but not for all. Added Country for reference.
     Where are the Democratic Candidates coming from
@@ -73,11 +76,17 @@ Our data-gathering and preparation methodology is composed of the following step
 
 ## 5. Technologies used
 
-Python, Jupyter notebook or collab, Pandas, Scikit-learn
+Python, Jupyter notebook or collab, Pandas, Scikit-learn, wget
+
+Used Pandas to extract details of candidate and wget to download data dynamically from kaggle. 
+Scikit-learn used to for graphical representation of candidates along with liked tweets.
+
 
 ## 6. Results
 
-After all the data was collected, we ran the data analysis and arrived at these results. The analysis’ prediction favored Joe Biden to win this year’s election. However, President Trump was close behind. The predicted race included a very tight race, ending with Joe Biden breaking through. The actual presidential race this November seemed to be following the predicted trend, with Joe Biden taking a lead at the start and President Trump catching up by the first day’s end. The race continued to be tight for a couple of days, matching the general trend of the prediction. However, on November 7th, Biden broke through the stalemate and secured the elections. The prediction was close for most of the race, but the trend broke when Joe Biden won by a convincing lead.
+After all the data was collected, we have formatted the candidates information and cleaned the twitter data. After closely watching the twitter data
+with the graphical represenation we predicted the results. 
+The analysis’ prediction favored Joe Biden to win this year’s election. However, President Trump was close behind. The predicted race included a very tight race, ending with Joe Biden breaking through. The actual presidential race this November seemed to be following the predicted trend, with Joe Biden taking a lead at the start and President Trump catching up by the first day’s end. The race continued to be tight for a couple of days, matching the general trend of the prediction. However, on November 7th, Biden broke through the stalemate and secured the elections. The prediction was close for most of the race, but the trend broke when Joe Biden won by a convincing lead.
 
 ![Predicted results of US Elections 2020](https://raw.github.com/cybertraining-dsc/fa20-523-316/main/project/images/Electionresults.png)
 
