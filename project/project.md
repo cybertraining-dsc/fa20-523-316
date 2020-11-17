@@ -34,7 +34,7 @@ One might argue that these kinds of predictions will only be helping organizatio
 
 ## 2. DataSets
 
-We will be going to use the dataset, <https://www.kaggle.com/tunguz/us-elections-dataset> [citation missing], and we will create the filets based on location. If needed, we may download Twitter data from posts on and by Donald Trump, Joe Biden, and their associates. Which leads us to our objective for the project, based on the data we collected, we should be able to predict the winner of the 2020 United States of America’s presidential elections.
+We will be going to use the dataset, [^1] and we will create the filets based on location. If needed, we may download Twitter data from posts on and by Donald Trump, Joe Biden, and their associates. Which leads us to our objective for the project, based on the data we collected, we should be able to predict the winner of the 2020 United States of America’s presidential elections.
 
 All of the data will be location-based and if required we will download realtime campaigning and debate analysis data, giving us a live and updated prediction every time increment. To strengthen the prediction, even more, we may reuse some code from the 2016 election’s analysis, however, our main focus will be using the latest data we readily acquire during the time leading up to the 2020 election.
 In conclusion, to make our predictions as realistic and as strong as we can get, we will be going to choose multiple data sets to integrate between the previous election and twitter data to predict the number of votes each candidate will acquire. Therefore, we will be predicting the winner of the 2020 presidential elections. 
@@ -106,7 +106,11 @@ Reference image: <https://www.kaggle.com/radustoicescu/2020-united-states-presid
 
 So, we've taken a quick look at the sentiment of tweets. There are a lot of analysis variants. It looks great to study the tweets by each twitter account, for instance, but these features have a lot of NaN values, and therefore don't cover the actual situation. Based on the analysis from the twitter the predicted winner is projected.The sentiment analysis was performed only on data that had geo-data originating from the "United States of America" to try to ascertain the sentiment in each respective dataset and therefore each presidential candidate.
 
-## 8. Plan for the rest of the Semseter
+## 8. Acknowledgements
+
+Would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and the associate instructors for providing continuous guidance and feedback for this final project.
+
+## 9. Plan for the rest of the Semseter
 
 October 26:
 - Furthur looking into new datasets and getting new twitter data. 
@@ -124,9 +128,8 @@ November 16:
 
 
 
-## 9. Refernces
+## 10. Refernces
 
 [^1]:Taken election dataset <https://www.kaggle.com/kerneler/starter-2020-united-states-e6a4facf-a>
-[^2]:Screenshots/image from <https://www.kaggle.com/manchunhui/us-election-2020-tweets>
-
+[^2]:Images are taken from from <https://www.kaggle.com/manchunhui/us-election-2020-tweets>
 
