@@ -127,4 +127,6 @@ November 16:
 ## 9. Refernces
 
 [^1]:Taken election dataset <https://www.kaggle.com/kerneler/starter-2020-united-states-e6a4facf-a>
+[^2]:Screenshots/image from <https://www.kaggle.com/manchunhui/us-election-2020-tweets>
+
 
