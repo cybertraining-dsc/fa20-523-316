@@ -117,10 +117,10 @@ November 2:
 - Working on creating function to download the content. Remove the spaces in the project.
 
 November 9:
-Completed major part of the notebook, uploaded only neccessary files and modified the code.
+- Completed major part of the notebook, uploaded only neccessary files and modified the code.
 
 November 16:
-- Theoretical results were derived and compared with actual results, posted at sub section 6.
+- Results were derived and compared with actual results, posted at sub section 6.
 
 
 
