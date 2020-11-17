@@ -38,7 +38,7 @@ We will be going to use the dataset, <https://www.kaggle.com/tunguz/us-elections
 
 All of the data will be location-based and if required we will download realtime campaigning and debate analysis data, giving us a live and updated prediction every time increment. To strengthen the prediction, even more, we may reuse some code from the 2016 election’s analysis, however, our main focus will be using the latest data we readily acquire during the time leading up to the 2020 election.
 In conclusion, to make our predictions as realistic and as strong as we can get, we will be going to choose multiple data sets to integrate between the previous election and twitter data to predict the number of votes each candidate will acquire. Therefore, we will be predicting the winner of the 2020 presidential elections. 
-One thing we will be avoiding is the use of polls as source material. Many problems will arise with the use of polls. The benefits are questionable and outweighed.
+One thing we will be avoiding is the use of polls as source material. Many problems will arise with the use of polls. The benefits are questionable and outweighed.For one thing, the result of a poll is not concrete. One can just select a random candidate or purposely vote a candidate for an unjustified reason. One of the bigger problems is impartiality. The problem rises with the concept of an internet website, where most if not all polls are being conducted. The internet is designed so people with common interests end up at the same website.
 
 ## 3. Methodology/Process
 
