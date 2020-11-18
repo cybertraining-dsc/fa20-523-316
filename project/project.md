@@ -156,9 +156,15 @@ November 16:
 
 
 
-## 10. Refernces
+## 10. References
 
 [^1]:Taken election dataset <https://www.kaggle.com/kerneler/starter-2020-united-states-e6a4facf-a>
 
-[^2]:Images are taken from from <https://www.kaggle.com/manchunhui/us-election-2020-tweets>
+[^2]:Images are taken from <https://www.kaggle.com/manchunhui/us-election-2020-tweets>
+
+[^3]:Conceptual reference <https://towardsdatascience.com/sentiment-analysis-concept-analysis-and-applications-6c94d6f58c17>
+
+[^4]:Geeks for Geeks <https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python>
+
+[^5]:wikipedia <https://en.wikipedia.org/wiki/Sentiment_analysis>
 
