@@ -2,9 +2,26 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-316/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-316/actions)
 
-- [ ] please use proper refernce citations, they must be cited in text not cited: 
+- [ ] please use proper refernce citations, they must be cited in text not cited see our template
+- [ ] no backgound section provided
+- [ ] for a paper with two people having juts two references is highly unusual showcasing that the background needs to be reviewed.
+- [ ] use proper grammer *We will be going to use the dataset* is $We use$ this is not a proposal 
+- [ ] use proper sentences. 
+- [ ] Reference image:, see template how to cite images
+- [ ] content is not spell checked. Suggestion: use grammarly
+- [ ] plan section not be moved to plan.md as stated in piazza
+- [ ] section 4 is incomplete and contains missformated and incomplete sentences
+- [ ] section 5 where you list technologies, there are no details provided what you use and citation references are missing
+- [ ] section 6: "we ran the data analysis",  what data analysis?
+- [ ] section 7: unsubstantiated claims are being made based on the time line, however that timeline is not backed up by graphs in the analysis. 
+- [ ] There are URLs in the text instead of citations in the caption
+- [ ] The following sentence is unclear : "Reference image: https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks and edited it form our program.". 
+- [ ] we do not understand what a reference image is that term is not explained in detail and is unclear: Reference image: https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks
+- [ ] "There are a lot of analysis variants. " Which? where are they listed in detail?
+- [ ] This sentence is unclear "It looks great to study the tweets by each twitter account, for instance, but these features have a lot of NaN values, and therefore don’t cover the actual situation."
+- [ ] Based on the analysis from the twitter the predicted winner is projected. What analysis?
+- [ ] "The sentiment analysis was performed only on data that had geo-data originating from the “United States of America” to try to ascertain the sentiment in each respective dataset and therefore each presidential candidate." should go into data selection section, and coudl be repeated as part of the explanation with the conclusion. What consequence has this for your analysis, is your analysis now inaccurate, It also brings up the question what will happen if you include that data and why you have not included it or compared to.
 
-[^1] [^2]
 
 Sudheer Alluri, Indiana University, fa20-523-316, ngsudheer@gmail.com
 
@@ -34,7 +51,7 @@ One might argue that these kinds of predictions will only be helping organizatio
 
 ## 2. DataSets
 
-We will be going to use the dataset, [^1] and we will create the filets based on location. If needed, we may download Twitter data from posts on and by Donald Trump, Joe Biden, and their associates. Which leads us to our objective for the project, based on the data we collected, we should be able to predict the winner of the 2020 United States of America’s presidential elections.
+We will be going to use the dataset [^1] and we will create the filets based on location. If needed, we may download Twitter data from posts on and by Donald Trump, Joe Biden, and their associates. Which leads us to our objective for the project, based on the data we collected, we should be able to predict the winner of the 2020 United States of America’s presidential elections.
 
 All of the data will be location-based and if required we will download realtime campaigning and debate analysis data, giving us a live and updated prediction every time increment. To strengthen the prediction, even more, we may reuse some code from the 2016 election’s analysis, however, our main focus will be using the latest data we readily acquire during the time leading up to the 2020 election.
 In conclusion, to make our predictions as realistic and as strong as we can get, we will be going to choose multiple data sets to integrate between the previous election and twitter data to predict the number of votes each candidate will acquire. Therefore, we will be predicting the winner of the 2020 presidential elections. 
@@ -140,5 +157,6 @@ November 16:
 ## 10. Refernces
 
 [^1]:Taken election dataset <https://www.kaggle.com/kerneler/starter-2020-united-states-e6a4facf-a>
+
 [^2]:Images are taken from from <https://www.kaggle.com/manchunhui/us-election-2020-tweets>
 
