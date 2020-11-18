@@ -10,6 +10,7 @@
 - [ ] Reference image:, see template how to cite images
 - [ ] content is not spell checked. WHy not use grammarly
 
+
 Sudheer Alluri, Indiana University, fa20-523-316, ngsudheer@gmail.com
 
 Vishwanadham Mandala, Indiana University, fa20-523-325, vishwandh.mandala@gmail.com
@@ -38,7 +39,7 @@ One might argue that these kinds of predictions will only be helping organizatio
 
 ## 2. DataSets
 
-We will be going to use the dataset, [^1] and we will create the filets based on location. If needed, we may download Twitter data from posts on and by Donald Trump, Joe Biden, and their associates. Which leads us to our objective for the project, based on the data we collected, we should be able to predict the winner of the 2020 United States of America’s presidential elections.
+We will be going to use the dataset [^1] and we will create the filets based on location. If needed, we may download Twitter data from posts on and by Donald Trump, Joe Biden, and their associates. Which leads us to our objective for the project, based on the data we collected, we should be able to predict the winner of the 2020 United States of America’s presidential elections.
 
 All of the data will be location-based and if required we will download realtime campaigning and debate analysis data, giving us a live and updated prediction every time increment. To strengthen the prediction, even more, we may reuse some code from the 2016 election’s analysis, however, our main focus will be using the latest data we readily acquire during the time leading up to the 2020 election.
 In conclusion, to make our predictions as realistic and as strong as we can get, we will be going to choose multiple data sets to integrate between the previous election and twitter data to predict the number of votes each candidate will acquire. Therefore, we will be predicting the winner of the 2020 presidential elections. 
