@@ -1,6 +1,8 @@
 # Sentiment Analysis and Visualization using an US-election dataset for the 2020 Election
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-316/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-316/actions)
+[![Status](https://github.com/cybertraining-dsc/fa20-523-316/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-316/actions)
+Status: in progress
 
 - [ ] please use proper refernce citations, they must be cited in text not cited see our template
 - [ ] no backgound section provided
@@ -21,7 +23,7 @@
 - [ ] This sentence is unclear "It looks great to study the tweets by each twitter account, for instance, but these features have a lot of NaN values, and therefore don’t cover the actual situation."
 - [ ] Based on the analysis from the twitter the predicted winner is projected. What analysis?
 - [ ] "The sentiment analysis was performed only on data that had geo-data originating from the “United States of America” to try to ascertain the sentiment in each respective dataset and therefore each presidential candidate." should go into data selection section, and coudl be repeated as part of the explanation with the conclusion. What consequence has this for your analysis, is your analysis now inaccurate, It also brings up the question what will happen if you include that data and why you have not included it or compared to.
-
+- [ ] place cvs files into project/data
 
 Sudheer Alluri, Indiana University, fa20-523-316, ngsudheer@gmail.com
 
