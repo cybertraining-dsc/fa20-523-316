@@ -2,9 +2,12 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-316/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-316/actions)
 
-- [ ] please use proper refernce citations, they must be cited in text not cited: 
-
-[^1] [^2]
+- [ ] please use proper refernce citations, they must be cited in text not cited see our template
+- [ ] no backgound section provided
+- [ ] for a paper with two people having juts two references is highly unusual showcasing that the background needs to be reviewed.
+- [ ] use proper grammer *We will be going to use the dataset* is $We use$ this is not a proposal 
+- [ ] use proper sentences. Exaple: 
+- [ ] Reference image:, see template how to cite images
 
 Sudheer Alluri, Indiana University, fa20-523-316, ngsudheer@gmail.com
 
@@ -140,5 +143,6 @@ November 16:
 ## 10. Refernces
 
 [^1]:Taken election dataset <https://www.kaggle.com/kerneler/starter-2020-united-states-e6a4facf-a>
+
 [^2]:Images are taken from from <https://www.kaggle.com/manchunhui/us-election-2020-tweets>
 
