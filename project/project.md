@@ -6,8 +6,9 @@
 - [ ] no backgound section provided
 - [ ] for a paper with two people having juts two references is highly unusual showcasing that the background needs to be reviewed.
 - [ ] use proper grammer *We will be going to use the dataset* is $We use$ this is not a proposal 
-- [ ] use proper sentences. Exaple: 
+- [ ] use proper sentences. 
 - [ ] Reference image:, see template how to cite images
+- [ ] content is not spell checked. WHy not use grammarly
 
 Sudheer Alluri, Indiana University, fa20-523-316, ngsudheer@gmail.com
 
