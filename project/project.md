@@ -17,12 +17,12 @@ Status: final
 - [x] section 6: "we ran the data analysis",  what data analysis?
 - [x] section 7: unsubstantiated claims are being made based on the time line, however that timeline is not backed up by graphs in the analysis. 
 - [x] There are URLs in the text instead of citations in the caption
-- [x] The following sentence is unclear : "Reference image: https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks and edited it form our program.". 
-- [x] we do not understand what a reference image is that term is not explained in detail and is unclear: Reference image: https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks
+- [x] The following sentence is unclear : "Reference image: <https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks and edited it form our program.>". 
+- [x] we do not understand what a reference image is that term is not explained in detail and is unclear: Reference image: <https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks>
 - [x] "There are a lot of analysis variants. " Which? where are they listed in detail?
 - [x] This sentence is unclear "It looks great to study the tweets by each twitter account, for instance, but these features have a lot of NaN values, and therefore don’t cover the actual situation."
 - [x] Based on the analysis from the twitter the predicted winner is projected. What analysis?
-- [x] "The sentiment analysis was performed only on data that had geo-data originating from the “United States of America” to try to ascertain the sentiment in each respective dataset and therefore each presidential candidate." should go into data selection section, and coudl be repeated as part of the explanation with the conclusion. What consequence has this for your analysis, is your analysis now inaccurate, It also brings up the question what will happen if you include that data and why you have not included it or compared to.
+- [x] "The sentiment analysis was performed only on data that had geo-data originating from the 'United States of America' to try to ascertain the sentiment in each respective dataset and therefore each presidential candidate." should go into data selection section, and coudl be repeated as part of the explanation with the conclusion. What consequence has this for your analysis, is your analysis now inaccurate, It also brings up the question what will happen if you include that data and why you have not included it or compared to.
 - [x] place cvs files into project/data
 
 Sudheer Alluri, Indiana University, fa20-523-316, ngsudheer@gmail.com
@@ -93,8 +93,7 @@ Based on liked tweets and buzz words used, we are predicting the winner.
     Where are the Democratic Candidates coming from
     Twitter Engagement, likes and retweets¶
     Buzzwords for each candidate
-    
-    Pandas: 
+  By using Pandas: 
     Used to extract the data and clean the tweets.
     Seaboarn and matlab, used to represent the status of elections in the graphs.
 
@@ -128,11 +127,9 @@ Below is the example of extracing tweets and forming into graph to represent the
 Among the most frequent words in tweets dedicated to Donald Trump (excluding candidates' proper nouns) occur both popular election words: "vote", "election", "president","people", "Election Day", etc., and specific, like "MAGA" (Trump's tagline "Make America Great Again") or "die" (a word with negative sense). Specific words of tweets dedicated to Joe Biden: "Kamala Harris" (Vice President-elect of the United States), "BidenHarris", "win" (a word that is more frequent regarding Joe Biden than Donald Trump). Let's look at Bi and Tri n-grams of words.
     
 ![Words used in  US Elections 2020](https://raw.github.com/cybertraining-dsc/fa20-523-316/main/project/images/__results___53_0.png)
-
 **Figure 3:** Words used in US Elections 2020
     
 Reference image: <https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks> 
-
 
 
 ## 8.Conclusion
