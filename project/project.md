@@ -51,15 +51,20 @@ Contents
 For our final project, we will be focusing on the upcoming U.S. presidential elections. More specifically, we will be attempting to predict the winner of 2020’s u.S. elections.As many people across the world know, the United States Presidential elections is a very grand and important political event for the people and government of the United States of America. Not only that, the results of this election will impact the world as a whole. This year, there were many candidates. However, the election boiled down to the Democrat candidate, Joe Biden, fighting against the current Republican President of the United States of America, Donald J. Trump. There are many problems that we can run into while predicting the winner. We run into problems like finding an unbiased source or handling the size of the data. However, we believe that we found a pathway that solves all problems and effectively predicts the results of this year’s presidential election. We plan to use a US-elections dataset to predict the votes each contestant will attain, by area. With growing data, the prediction will be changing constantly. We are making the difference by selecting the latest dataset available and previous election data to predict the number of votes each contestant will get to the closest figure. A feature we are introducing to enhance the quality is predicting various area types like counties, towns, and/or big cities.
 One might argue that these kinds of predictions will only be helping organizations and not individuals. We assure you that this project will be helping the general public in many ways. The most evident being, an individual knowing which contestant his/her community or the general public around him/her prefer. This project is strictly statistical and does not have a goal to sway the elections in any way or to pressure an individual into picking a candidate. Overall, this is just a small step towards a future that might hold an environment where the next president of the United States of America could be accurately guessed based on previous data and innovative Big Data Technologies.
 
-## 2. DataSets
+## 2. Background Research and Previous Work
 
-We will be going to use the dataset [^1] and we will create the filets based on location. If needed, we may download Twitter data from posts on and by Donald Trump, Joe Biden, and their associates. Which leads us to our objective for the project, based on the data we collected, we should be able to predict the winner of the 2020 United States of America’s presidential elections.
+After reading wiki/Sentiment_analysis came with concrete idea of sentimental analysis and choose the election topic since it is the latest ongoing trend
+in USA and dataset can be easily refreshed.
+
+## 3. DataSets
+
+By using the dataset [^1] and filets are based on location. If needed, we may download Twitter data from posts on and by Donald Trump, Joe Biden, and their associates. Which leads us to our objective for the project, based on the data we collected, we should be able to predict the winner of the 2020 United States of America’s presidential elections.
 
 All of the data will be location-based and if required we will download realtime campaigning and debate analysis data, giving us a live and updated prediction every time increment. To strengthen the prediction, even more, we may reuse some code from the 2016 election’s analysis, however, our main focus will be using the latest data we readily acquire during the time leading up to the 2020 election.
-In conclusion, to make our predictions as realistic and as strong as we can get, we will be going to choose multiple data sets to integrate between the previous election and twitter data to predict the number of votes each candidate will acquire. Therefore, we will be predicting the winner of the 2020 presidential elections. 
+In conclusion, to make our predictions as realistic and as strong as we can get, selected multiple data sets to integrate between the previous election and twitter data to predict the number of votes each candidate will acquire. Therefore, we will be predicting the winner of the 2020 presidential elections. 
 One thing we will be avoiding is the use of polls as source material. Many problems will arise with the use of polls. The benefits are questionable and outweighed.For one thing, the result of a poll is not concrete. One can just select a random candidate or purposely vote a candidate for an unjustified reason. One of the bigger problems is impartiality. The problem rises with the concept of an internet website, where most if not all polls are being conducted. The internet is designed so people with common interests end up at the same website.Therefore, if a poll conducting website has an audience of voters that favor one of the candidates, the results will be biased, impartial, and won’t represent the true feelings of the public. There are also thousands of these polls. Even if there are non biased polls, we will not be able to identify them and interpret them before the end of the elections. Even if we assume that there are more unbiased polls, the shear number will be impossible to use and losing any might decrease the number of unbiased and raise the number or biased polls. The results of some polls are even meaningless.This can occur due to small voting numbers. If only 15 people vote, the results will not represent the mass public. The fact is that it is very hard for polls to attract voters. Without a poll achieving all these requirements and more, it will not be considered legitimate or be taken seriously. Even the actual elections require mass advertisement for people to show up. During October of an election year, there are thousands of advertisements and endorsements with the sole purpose of acquiring voters.Now the elections have government funding for these ads. Polls do not have the time or funding to attract these masses to vote. They have to suffice with the number and demographics of their voters.  Which is the biggest reason why most polls are useless. Even mega corporations that conduct polls fall to more than one of these mistakes. Rendering them nugatory.
 
-## 3. Methodology/Process
+## 4. Methodology/Process
 
 Our project has two main sections of data sets in it. The first and primary one containing candidate information and previous presidential election data and the second containing twitter data. We believed the second needed more time because the first dataset contained straightforward facts while the twitter dataset is more susceptible to different perspectives and viewpoints.
 In this project we are analyzing twitter data of key presidential candidates and other key supporters.We gathered the data from kaggle datasets. Data is mainly divided into 3 sub categories. Tweets made by key personnel.Twitter profiles of the two candidates(all info including followers, following, number of tweets,etc.).The final category involves graphs for visualization purposes.A problem with twitter data is the fact that it is huge. We are using google drive and with it comes the problem of storage. To combat this we are only using 4 twitter data sets. The datasets of Donald J. Trump, Joe Biden, Kamala Harris, and Mike Pence. We also downloaded these data sets to use them locally.There are mainly 3 types of formats used in everyday twitter use: images, text, and video. Only text will be used in this project because the others are not useful for the purpose of the
@@ -77,7 +82,7 @@ Our data-gathering and preparation methodology is composed of the following step
 * Data cleaning and extraction.
 * We will try to download the latest data from twitter and campaigning.
 
-## 4. Development of Models
+## 5. Development of Models
 
 Our approach to find the information of candidates and get the age, tweets information and what are the key words used and what words are liked more.
 Based on liked tweets and buzz words used, we are predicting the winner.
@@ -93,7 +98,7 @@ Based on liked tweets and buzz words used, we are predicting the winner.
     Used to extract the data and clean the tweets.
     Seaboarn and matlab, used to represent the status of elections in the graphs.
 
-## 5. Technologies used
+## 6. Technologies used
 
 Python, Jupyter notebook or collab, Pandas, Scikit-learn, wget
 
@@ -101,7 +106,7 @@ Used Pandas to extract details of candidate and wget to download data dynamicall
 Scikit-learn used to for graphical representation of candidates along with liked tweets.
 
 
-## 6. Results
+## 7. Results
 
 After all the data was collected, we have formatted the candidates information and cleaned the twitter data. After closely watching the twitter data
 with the graphical represenation we predicted the results. 
@@ -130,15 +135,15 @@ Reference image: <https://www.kaggle.com/radustoicescu/2020-united-states-presid
 
 
 
-## 7.Conclusion
+## 8.Conclusion
 
 So, we've taken a quick look at the sentiment of tweets. There are a lot of analysis variants. It looks great to study the tweets by each twitter account, for instance, but these features have a lot of NaN values, and therefore don't cover the actual situation. Based on the analysis from the twitter the predicted winner is projected.The sentiment analysis was performed only on data that had geo-data originating from the "United States of America" to try to ascertain the sentiment in each respective dataset and therefore each presidential candidate.
 
-## 8. Acknowledgements
+## 9. Acknowledgements
 
 Would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and the associate instructors for providing continuous guidance and feedback for this final project.
 
-## 9. Plan for the rest of the Semseter
+## 10. Plan for the rest of the Semseter
 
 October 26:
 - Furthur looking into new datasets and getting new twitter data. 
@@ -156,7 +161,7 @@ November 16:
 
 
 
-## 10. References
+## 11. References
 
 [^1]:Taken election dataset <https://www.kaggle.com/kerneler/starter-2020-united-states-e6a4facf-a>
 
