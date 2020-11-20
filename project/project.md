@@ -131,7 +131,7 @@ Among the most frequent words in tweets dedicated to Donald Trump (excluding can
 Reference image: <https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks> 
 
 
-## 8.Conclusion
+## 8. Conclusion
 
 So, we've taken a quick look at the sentiment of tweets. There are a lot of analysis variants. It looks great to study the tweets by each twitter account, for instance, but these features have a lot of NaN values, and therefore don't cover the actual situation. Based on the analysis from the twitter the predicted winner is projected.The sentiment analysis was performed only on data that had geo-data originating from the "United States of America" to try to ascertain the sentiment in each respective dataset and therefore each presidential candidate.
 
