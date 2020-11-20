@@ -4,6 +4,7 @@
 [![Status](https://github.com/cybertraining-dsc/fa20-523-316/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-316/actions)
 Status: in progress
 
+- [ ] check spaces befor and after .
 - [x] please use proper refernce citations, they must be cited in text not cited see our template
 - [ ] no real backgound section provided
 - [x] for a paper with two people having juts two references is highly unusual showcasing that the background needs to be reviewed.
