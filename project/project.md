@@ -6,7 +6,7 @@ Status: in progress
 
 - [ ] check spaces befor and after .
 - [x] please use proper refernce citations, they must be cited in text not cited see our template
-- [ ] no real backgound section provided
+- [x] no real backgound section provided
 - [x] for a paper with two people having juts two references is highly unusual showcasing that the background needs to be reviewed.
 - [x] use proper grammer *We will be going to use the dataset* is $We use$ this is not a proposal 
 - [ ] use proper sentences. we see several sentence fragments.
