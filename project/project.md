@@ -55,7 +55,8 @@ One might argue that these kinds of predictions will only be helping organizatio
 ## 2. Background Research and Previous Work
 
 After reading wiki/Sentiment_analysis came with concrete idea of sentimental analysis and choose the election topic since it is the latest ongoing trend
-in USA and dataset can be easily refreshed.
+in USA and dataset can be easily refreshed.Social media use is at an all-time historic high forthe United States, so we considered one popular social media
+platform, Twitter, and tried to see if we could predict how a groupof people felt about an issue by only using posts from social media.For our research, we looked at tweets that focused on the 2020United States presidential election. Using these tweets, we tried tofind a correlation between tweet sentiment and the election results.We wrote a program to collect tweets that mentioned one of the two candidates along with selected vice presidents, then sorted the tweets by state and developed a sentiment algorithm to see which candidate the tweet favored, or if it was neutral.
 
 ## 3. DataSets
 
