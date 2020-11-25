@@ -106,8 +106,18 @@ Python, Jupyter notebook or collab, Pandas, Scikit-learn, wget
 Used Pandas to extract details of candidate and wget to download data dynamically from kaggle. 
 Scikit-learn used to for graphical representation of candidates along with liked tweets.
 
+## 7. ANALYSES OF US PRESIDENTIAL ELECTIONS 2020
+In this section of the article, we present the results of our data analysis for US elections of 2020. We will utilize our findings to corroborate the research questions we developed in the previous section.
 
-## 7. Results
+### Subjectivity Analysis:
+
+We performed subjectivity analysis of Twitter messages during the 2020 US elections. Here, we used Twitter location data to analyze which 
+candidate was mentioned in more subjective tweets. Results of subjectivity analysis are shown in Figure 2. 
+We can observe that tweets mentioning Joe Biden were more subjective than those mentioning Donald Trump. This phenomenon was observed across the board in all 10 states under study. 
+We discovered a similar trend for all states of the US as shown in Figure 3.
+
+
+## 8. Results
 
 After all the data was collected, we have formatted the candidates information and cleaned the twitter data. After closely watching the twitter data
 with the graphical represenation we predicted the results. 
@@ -132,11 +142,11 @@ Among the most frequent words in tweets dedicated to Donald Trump (excluding can
 Reference image: <https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks> 
 
 
-## 8. Conclusion
+## 9. Conclusion
 
 So, we've taken a quick look at the sentiment of tweets. There are a lot of analysis variants. It looks great to study the tweets by each twitter account, for instance, but these features have a lot of NaN values, and therefore don't cover the actual situation. Based on the analysis from the twitter the predicted winner is projected.The sentiment analysis was performed only on data that had geo-data originating from the "United States of America" to try to ascertain the sentiment in each respective dataset and therefore each presidential candidate.
 
-## 9. Acknowledgements
+## 10. Acknowledgements
 
 Would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and the associate instructors for providing continuous guidance and feedback for this final project.
 
