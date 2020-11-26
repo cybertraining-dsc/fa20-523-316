@@ -116,6 +116,11 @@ candidate was mentioned in more subjective tweets. Results of subjectivity analy
 We can observe that tweets mentioning Joe Biden were more subjective than those mentioning Donald Trump. This phenomenon was observed across the board in all 10 states under study. 
 We discovered a similar trend for all states of the US as shown in Figure 3.
 
+### Visualization Analysis:
+
+After looking at graphs of liked and retweets, the predication is towards Trump with the given amount of data.But after removing the Trump data, Kamala 
+got most retweets from Figure 4.
+
 
 ## 8. Results
 
@@ -138,13 +143,26 @@ Reference image: <https://www.kaggle.com/radustoicescu/2020-united-states-presid
 Below is the example of extracing tweets and forming into graph to represent the data.
 Among the most frequent words in tweets dedicated to Donald Trump (excluding candidates' proper nouns) occur both popular election words: "vote", "election", "president","people", "Election Day", etc., and specific, like "MAGA" (Trump's tagline "Make America Great Again") or "die" (a word with negative sense). Specific words of tweets dedicated to Joe Biden: "Kamala Harris" (Vice President-elect of the United States), "BidenHarris", "win" (a word that is more frequent regarding Joe Biden than Donald Trump). Let's look at Bi and Tri n-grams of words. 
 ![Words used in  US Elections 2020](https://raw.github.com/cybertraining-dsc/fa20-523-316/main/project/images/__results___53_0.png)
-**Figure 3:** Words used in US Elections 2020
-Reference image: <https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks> 
+
+**Figure 4:** Retweeted of US Elections 2020 With Trump
+
+![Retweets from Twitter](https://raw.github.com/cybertraining-dsc/fa20-523-316/main/project/images/retweets_trump.jpg)
+
+Reference image: <https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks> and edited it form our program.
+
+**Figure 5:** Retweeted of US Elections 2020  Without Trump
+
+![Retweets from Twitter](https://raw.github.com/cybertraining-dsc/fa20-523-316/main/project/images/retweets_no_trump.jpg)
+
+Reference image: <https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks> and edited it form our program.
+
+
 
 
 ## 9. Conclusion
 
-So, we've taken a quick look at the sentiment of tweets. There are a lot of analysis variants. It looks great to study the tweets by each twitter account, for instance, but these features have a lot of NaN values, and therefore don't cover the actual situation. Based on the analysis from the twitter the predicted winner is projected.The sentiment analysis was performed only on data that had geo-data originating from the "United States of America" to try to ascertain the sentiment in each respective dataset and therefore each presidential candidate.
+So, we've taken a quick look at the sentiment of tweets. There are a lot of analysis variants. It looks great to study the tweets by each twitter account and therefore don't cover the actual situation since restriction to data. 
+Based on the visualization analysis with predicted tweets from the twitter the predicted winner is projected.The sentiment analysis was performed only on data that had geo-data originating from the "United States of America" to try to ascertain the sentiment in each respective dataset and therefore each presidential candidate.
 
 ## 10. Acknowledgements
 
