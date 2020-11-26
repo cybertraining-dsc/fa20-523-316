@@ -111,7 +111,7 @@ In this section of the article, we present the results of our data analysis for 
 
 ### Subjectivity Analysis:
 
-We performed subjectivity analysis of Twitter messages during the 2020 US elections. Here, we used Twitter location data to analyze which 
+We performed subjectivity analysis of Twitter messages during the 2020 US elections. Here, we used Twitter data to analyze which 
 candidate was mentioned in more subjective tweets. Results of subjectivity analysis are shown in Figure 2. 
 We can observe that tweets mentioning Joe Biden were more subjective than those mentioning Donald Trump. This phenomenon was observed across the board in all 10 states under study. 
 We discovered a similar trend for all states of the US as shown in Figure 3.
