@@ -4,7 +4,7 @@
 [![Status](https://github.com/cybertraining-dsc/fa20-523-316/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-316/actions)
 Status: in progress
 
-- [ ] check spaces befor and after .
+- [x] check spaces befor and after .
 - [x] please use proper refernce citations, they must be cited in text not cited see our template
 - [x] no real backgound section provided
 - [x] for a paper with two people having juts two references is highly unusual showcasing that the background needs to be reviewed.
@@ -22,7 +22,7 @@ Status: in progress
 - [x] we do not understand what a reference image is that term is not explained in detail and is unclear: Reference image: <https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks>
 - [ ] "There are a lot of analysis variants. " Which? where are they listed in detail?
 - [x] This sentence is unclear "It looks great to study the tweets by each twitter account, for instance, but these features have a lot of NaN values, and therefore don’t cover the actual situation."
-- [ ] Based on the analysis from the twitter the predicted winner is projected. What analysis?
+- [x] Based on the analysis from the twitter the predicted winner is projected. What analysis?
 - [x] "The sentiment analysis was performed only on data that had geo-data originating from the 'United States of America' to try to ascertain the sentiment in each respective dataset and therefore each presidential candidate." should go into data selection section, and coudl be repeated as part of the explanation with the conclusion. What consequence has this for your analysis, is your analysis now inaccurate, It also brings up the question what will happen if you include that data and why you have not included it or compared to.
 - [x] place cvs files into project/data
 
@@ -111,7 +111,7 @@ In this section of the article, we present the results of our data analysis for 
 
 ### Subjectivity Analysis:
 
-We performed subjectivity analysis of Twitter messages during the 2020 US elections. Here, we used Twitter location data to analyze which 
+We performed subjectivity analysis of Twitter messages during the 2020 US elections. Here, we used Twitter data to analyze which 
 candidate was mentioned in more subjective tweets. Results of subjectivity analysis are shown in Figure 2. 
 We can observe that tweets mentioning Joe Biden were more subjective than those mentioning Donald Trump. This phenomenon was observed across the board in all 10 states under study. 
 We discovered a similar trend for all states of the US as shown in Figure 3.
