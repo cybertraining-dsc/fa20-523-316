@@ -93,7 +93,7 @@ Based on liked tweets and buzz words used, we are predicting the winner.
     Age of Democratic primaries candidates
     For some candidates it is very important to mention Women, but not for all. Added Country for reference.
     Where are the Democratic Candidates coming from
-    Twitter Engagement, likes and retweets¶
+    Twitter Engagement, likes and retweets
     Buzzwords for each candidate
   By using Pandas: 
     Used to extract the data and clean the tweets.
@@ -107,6 +107,7 @@ Used Pandas to extract details of candidate and wget to download data dynamicall
 Scikit-learn used to for graphical representation of candidates along with liked tweets.
 
 ## 7. ANALYSES OF US PRESIDENTIAL ELECTIONS 2020
+
 In this section of the article, we present the results of our data analysis for US elections of 2020. We will utilize our findings to corroborate the research questions we developed in the previous section.
 
 ### Subjectivity Analysis:
