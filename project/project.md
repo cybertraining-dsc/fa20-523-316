@@ -197,5 +197,9 @@ November 16:
 
 [^4]:Geeks for Geeks <https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python>
 
-[^5]:wikipedia <https://en.wikipedia.org/wiki/Sentiment_analysis>
+[^5]:Basics of machine learning <https://monkeylearn.com/blog/sentiment-analysis-machine-learning/>
+
+[^6]:Machine learning <https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN>
+
+[^7]:wikipedia <https://en.wikipedia.org/wiki/Sentiment_analysis>
 
