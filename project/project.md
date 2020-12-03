@@ -2,7 +2,7 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-316/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-316/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-316/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-316/actions)
-Status: in progress
+Status: final
 
 - [x] check spaces befor and after .
 - [x] please use proper refernce citations, they must be cited in text not cited see our template
