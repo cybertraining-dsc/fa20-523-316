@@ -15,18 +15,18 @@ Vishwanadham Mandala, Indiana University, fa20-523-325, vishwandh.mandala@gmail.
 - [ ] use proper grammer  
 - [ ] see issues in github and do not close them if you have not fixed them
 - [ ] you have obviously not run a grammer and spell checker such as grammerly on the entire paper
-
+- [ ] section hedares must not have :
+- [ ] content is not spell checked. Suggestion: use grammarly
 
 - [x] please use proper refernce citations, they must be cited in text not cited see our template
 - [x] no real backgound section provided
 - [x] for a paper with two people having juts two references is highly unusual showcasing that the background needs to be reviewed.
 - [x] Reference image:, see template how to cite images
-- [x] content is not spell checked. Suggestion: use grammarly
 - [x] plan section not moved to plan.md as stated in piazza
 - [x] section 4 is incomplete and contains missformated and incomplete sentences
 - [x] section 5 where you list technologies, there are no details provided what you use and citation references are missing
 - [x] section 6: "we ran the data analysis",  what data analysis?
-- [x ] section 7: unsubstantiated claims are being made based on the time line, however that timeline is not backed up by graphs in the analysis. 
+- [x] section 7: unsubstantiated claims are being made based on the time line, however that timeline is not backed up by graphs in the analysis. 
 - [x] There are URLs in the text instead of citations in the caption
 - [x] The following sentence is unclear : "Reference image: <https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks and edited it form our program.>". 
 - [x] we do not understand what a reference image is that term is not explained in detail and is unclear: Reference image: <https://www.kaggle.com/radustoicescu/2020-united-states-presidential-election/notebooks>
