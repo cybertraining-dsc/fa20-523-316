@@ -14,6 +14,7 @@ Vishwanadham Mandala, Indiana University, fa20-523-325, vishwandh.mandala@gmail.
 - [ ] not addressed: use proper sentences. we see several sentence fragments.
 - [ ] use proper grammer  
 - [ ] see issues in github and do not close them if you have not fixed them
+- [ ] you have obviously not run a grammer and spell checker such as grammerly on the entire paper
 
 
 - [x] please use proper refernce citations, they must be cited in text not cited see our template
