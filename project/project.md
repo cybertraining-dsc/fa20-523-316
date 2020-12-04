@@ -17,6 +17,7 @@ Vishwanadham Mandala, Indiana University, fa20-523-325, vishwandh.mandala@gmail.
 - [ ] you have obviously not run a grammer and spell checker such as grammerly on the entire paper
 - [ ] section hedares must not have :
 - [ ] content is not spell checked. Suggestion: use grammarly
+- [ ] you try to measure subjectivity in section 7, but yet you do not give a definition of what that subjectivity is e.g. its definition, as you compare them and come to a conclusion you must define it.
 
 - [x] please use proper refernce citations, they must be cited in text not cited see our template
 - [x] no real backgound section provided
