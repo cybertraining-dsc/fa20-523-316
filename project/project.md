@@ -18,6 +18,8 @@ Vishwanadham Mandala, Indiana University, fa20-523-325, vishwandh.mandala@gmail.
 - [ ] section hedares must not have :
 - [ ] content is not spell checked. Suggestion: use grammarly
 - [ ] you try to measure subjectivity in section 7, but yet you do not give a definition of what that subjectivity is e.g. its definition, as you compare them and come to a conclusion you must define it.
+- [ ] This entire section is unsubstiantiated: "
+After all the data was collected, we have formatted the candidates information and cleaned the twitter data. After closely watching the twitter data with the graphical represenation we predicted the results. The analysis’ prediction favored Joe Biden to win this year’s election. However, President Trump was close behind. The predicted race included a very tight race, ending with Joe Biden breaking through. The actual presidential race this November seemed to be following the predicted trend, with Joe Biden taking a lead at the start and President Trump catching up by the first day’s end. The race continued to be tight for a couple of days, matching the general trend of the prediction. However, on November 7th, Biden broke through the stalemate and secured the elections. The prediction was close for most of the race, but the trend broke when Joe Biden won by a convincing lead."
 
 - [x] please use proper refernce citations, they must be cited in text not cited see our template
 - [x] no real backgound section provided
