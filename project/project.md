@@ -73,21 +73,21 @@ One thing we are going to avoiding is the use of polls as source material. Many 
 
 ## 4. Methodology/Process:
 
+There are more than approximately 80 million active users of Twitter in the United States of America and Twitter makes an ideal case study of social media usage in political discourse.
 Our project has two main sections of data sets in it. The primary section contains candidate information and previous presidential election data, and the second containing twitter data. We believed the second needed more time because the first dataset contained straightforward facts while the twitter dataset is more susceptible to different perspectives and viewpoints.
 In this project, we are analyzing Twitter data of key presidential candidates and other key supporters. We gathered the data from Kaggle datasets. Data is mainly divided into 3 subcategories. Tweets made by key personnel.Twitter profiles of the two candidates(all info including followers, following, number of tweets, etc.).The final category involves graphs for visualization purposes. A problem with Twitter data is the fact that it is huge. We are using google drive and with it comes the problem of storage. To combat this we are only using 4 twitter data sets. The datasets of Donald J. Trump, Joe Biden, Kamala Harris, and Mike Pence. We also downloaded these data sets to use them locally. There are mainly 3 types of formats used in everyday twitter use: images, text, and video. Only text will be used in this project because others are not useful for the
 experiment. Our project mostly uses Twitter data as support to the primary dataset. It is there to strengthen the already predicted result. The reason why we cannot make the twitter data set our primary data set is that the data(tweets) are mostly opinion based with only some exceptions. So we cannot predict with the Twitter data, however, it
 can be used to show public support which will be vital in supporting the prediction derived from the primary data set. So, we found many twitter data sets on Kaggle and used certain parts from each to make our final four. The difference between the background sets and our final four datasets is the fact that they used Twitter data as their primary dataset while we are using Twitter data as our secondary dataset. We realized that twitter data is best used as secondary data that supports the primary dataset, which is more fact-based. We can use three of the four OSoMe tools available: trends, networking, and maps. Trends and networking can be combined to find a group that involves every user that is taking part in the elections in some way. Mapping can show these users and their location. Giving us the area based result that we seek. However, this method is already a part of our project. Because all this data is in Kaggle in a wider array. Which gave us the option to condense into four large data sets.
 
+Our methodology comprised of following steps:
 
-Have used the python lib pandas to get tweets and clean it in the required format. The used library was seaborn to represent the details in the graph and take the screenshots from it.
+1) Use of search terms "Trump", "Pence", "Biden", "Kamala", "Gender", "Words" and "Election2020" to gather Twitter data for our period of interest.
+2) Data Cleaning and extraction.
+3) Sentiment tagging and classification of gathered tweets.
+4) Development of user behavioral model, formulate hypotheses, and find proof of hypotheses.
 
-We are collecting election data and Twitter information and integrate both to predict the results. A lot of Twitter or dataset data will be trimmed and parsed to build the model. We will calculate
-Our data-gathering and preparation methodology is composed of the following steps:
-
-* Use the latest election dataset-2020, we are creating the model.
- 
-* Data cleaning and extraction.
-* We will try to download the latest data from Twitter and campaigning.
+Used Python to load Twitter data which is gathered from Kaggle, used Pandas library for data cleaning and extraction of each tweet's associated metadata.
+Seaborn library has been used for data visualization.
 
 ## 5. Development of Models:
 
@@ -109,23 +109,33 @@ Based on liked tweets and buzz words used, we are predicting the winner.
 Python, Jupyter notebook or collab, Pandas, Scikit-learn, wget
 
 Used Pandas to extract details of candidates and wget to download data dynamically from Kaggle. 
-Scikit-learn is used to for graphical representation of candidates along with liked tweets.
+Scikit-learn is used for graphical representation of candidates along with liked tweets.
 
-## 7. ANALYSES OF US PRESIDENTIAL ELECTIONS 2020:
+## 7. Analysis Of User Behavior:
 
-In this section of the article, we present the results of our data analysis for US elections of 2020. We will utilize our findings to corroborate the research questions we developed in the previous section.
+Data is sanitized, we then proceed in data mining and analysis techniques to perform data analytics and find useful information.  We tried to find evidence
+supporting some of our beliefs that by reviewing Twitter data for insights into user behavior and tweeting patterns.
 
-### Subjectivity Analysis:
+### Hypothesis 1: Twitter users are commenting on the elections and retweeting the Presidential tweets.
 
-We performed a subjectivity analysis of Twitter messages during the 2020 US elections. Here, we used Twitter data to analyze which candidate was mentioned in more subjective tweets. Results of subjectivity analysis are shown in Figure 2. 
-We can observe that tweets mentioning Joe Biden were more subjective than those mentioning Donald Trump. This phenomenon was observed across the board in all 10 states under study. 
-We discovered a similar trend for all states of the US as shown in Figure 3.
+Activity based on following and usage: Research has been conducted on message framing behavior of users on Twitter as a function of various characteristics including the number of followers and level of activity. Adding hashtag(#) to the preceding keywords allowing users to search with the word. The use of hashtag become part of Twitter
+trends and also enables them to reach a large audience.
 
-### Visualization Analysis:
+Similarly, we believe that a similar trend will be discovered in our election dataset. Users with a large following and heavy usage will be more concerned about making their tweets searchable and then those having fewer followers and less number of tweets. By framing the keyword with hashtag(#), large users are 
+able to reach a broader audience.
 
-After looking at graphs of liked and retweets, the prediction is towards Trump with the given amount of data. But after removing the Trump data, Kamala 
-got most retweets from Figure 4.
+### Hypothesis 2: Users in the context of elections do not use Twitter only to voice their opinions but also use the platform to interact with other users on political issues.
 
+A single tweet will be retweeted by multiple users and it reaches to a larger audience. Twitter became a platform for addressing a person directly. Direct messaging also 
+creates complexities for users in having to handle multiplicity and one-to-one conversations at the same time. 
+
+Based on the above discussion, we assume similar behavior amongst the users of our dataset and believe that there will be a  high number of one-to-one messaging indicating interactive political dialogue.
+
+### Hypothesis 3: Popular terms in Twitter discussion are significant real-world events and plays major role in elections:
+
+Several studies have been conducted to conclude Twitter is used as a real-time latest news identification tool and studies have claimed that based on trending topics active period of tweets showed that as many as 85% of topics are headlines or persistent in real-world news.
+
+Analysis of daily tweets during the US- election 2020 provides us current news events taking place in the real world. We analyzed high-frequency terms to justify our hypothesis.
 
 ## 8. Results:
 
