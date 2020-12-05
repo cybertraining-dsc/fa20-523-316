@@ -13,7 +13,7 @@ Vishwanadham Mandala, Indiana University, fa20-523-325, vishwandh.mandala@gmail.
 - [x] not addressed: check spaces befor and after .
 - [x] not addressed: use proper sentences. we see several sentence fragments.
 - [x] use proper grammer  
-- [ ] see issues in github and do not close them if you have not fixed them
+- [x] see issues in github and do not close them if you have not fixed them
 - [x] you have obviously not run a grammer and spell checker such as grammerly on the entire paper
 - [x] section hedares must not have :
 - [x] content is not spell checked. Suggestion: use grammarly
