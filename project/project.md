@@ -141,6 +141,8 @@ Analysis of daily tweets during the US- election 2020 provides us current news e
 
 In this section, we present the results of the data analysis performed over the course of the study. With the help of some prefatory findings, we understood the sentiment of the data, found the numerical statistics of the positive and negative tweets, and set a trend that successfully predicted the results of the 2020 U.S. presidential elections. Through the help of profound data analysis, we validated our hypotheses presented in the previous section. 
 
+The initial step of the analysis involves analyzing the data in two methods: individual candidate analysis and combined candidate analysis.
+
 After all the data was collected, we have formatted the candidate's information and cleaned the Twitter data. After closely watching the Twitter data
 with the graphical representation, we predicted the results. 
 The analysis’ prediction favored Joe Biden to win this year’s election. However, President Trump was close behind. The predicted race included a very tight race, ending with Joe Biden breaking through. The actual presidential race this November seemed to be following the predicted trend, with Joe Biden taking a lead at the start and President Trump catching up by the first day’s end. The race continued to be tight for a couple of days, matching the general trend of the prediction. However, on November 7th, Biden broke through the stalemate and secured the elections. The prediction was close for most of the race, but the trend broke when Joe Biden won by a convincing lead.
