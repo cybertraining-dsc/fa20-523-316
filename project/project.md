@@ -139,7 +139,7 @@ Analysis of daily tweets during the US- election 2020 provides us current news e
 
 ## 8. Results:
 
-In this section, we present the results of the data analysis performed over the course of the study. With the help of some prefatory findings, we understood the sentiment of the data, found the numerical statistics of the positive and negative tweets, and set a trend that successfully predicted the results of the 2020 U.S. presidential elections.
+In this section, we present the results of the data analysis performed over the course of the study. With the help of some prefatory findings, we understood the sentiment of the data, found the numerical statistics of the positive and negative tweets, and set a trend that successfully predicted the results of the 2020 U.S. presidential elections. Through the help of profound data analysis, we validated our hypotheses presented in the previous section. 
 
 After all the data was collected, we have formatted the candidate's information and cleaned the Twitter data. After closely watching the Twitter data
 with the graphical representation, we predicted the results. 
