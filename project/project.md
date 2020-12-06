@@ -183,7 +183,7 @@ Based on the visualization analysis with predicted tweets from Twitter the predi
 
 Would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and the associate instructors for providing continuous guidance and feedback for this final project.
 
-## 10. Plan for the rest of the Semester:
+## 11. Plan for the rest of the Semester:
 
 October 26:
 - Furthur looking into new datasets and getting new Twitter data. 
@@ -201,7 +201,7 @@ November 16:
 
 
 
-## 11. References:
+## 12. References:
 
 [^1]: Taken election dataset <https://www.kaggle.com/kerneler/starter-2020-united-states-e6a4facf-a>
 
