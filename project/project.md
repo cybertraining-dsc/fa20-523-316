@@ -106,7 +106,13 @@ Based on liked tweets and buzz words used, we are predicting the winner.
   By using Pandas: 
     Used to extract the data and clean the tweets.
     Seaborn and Matlab, used to represent the status of elections in the graphs.
+	
+### 5.1 Removing Noise from Data:
 
+To increase accuracy of our analysis, the next step is to remove noise from our dataset. Presence of spam on Twitter is a well known phenomenon. Although Twitter tries hard to idntify and remove 
+automated accounts, not everything are easily identifiable.  In order to identify and remove spam present in our dataset, we removed tweets belonigng to accounts having 
+abnormally high tweet rates. We have also filted our dataset by replaced the existing words with keywords and assigned the tweet id.
+	
 ## 6. Technologies used:
 
 Python, Jupyter notebook or collab, Pandas, Scikit-learn, wget
@@ -116,12 +122,12 @@ Scikit-learn is used for graphical representation of candidates along with liked
 
 ## 7. Analysis Of User Behavior:
 
-Data is sanitized, we then proceed in data mining and analysis techniques to perform data analytics and find useful information.  We tried to find evidence
+Data is sanitized as metnioned in [^5.1], we then proceed in data mining and analysis techniques to perform data analytics and find useful information.  We tried to find evidence
 supporting some of our beliefs that by reviewing Twitter data for insights into user behavior and tweeting patterns.
 
 ### Hypothesis 1: Twitter users are commenting on the elections and retweeting the Presidential tweets.
 
-Activity based on following and usage: Research has been conducted on message framing behavior of users on Twitter as a function of various characteristics including the number of followers and level of activity. Adding hashtag(#) to the preceding keywords allowing users to search with the word. The use of hashtag become part of Twitter
+Activity-based on following and usage: Research has been conducted on message framing behavior of users on Twitter as a function of various characteristics including the number of followers and level of activity. Adding hashtag(#) to the preceding keywords allowing users to search with the word. The use of hashtag become part of Twitter
 trends and also enables them to reach a large audience.
 
 Similarly, we believe that a similar trend will be discovered in our election dataset. Users with a large following and heavy usage will be more concerned about making their tweets searchable and then those having fewer followers and less number of tweets. By framing the keyword with hashtag(#), large users are 
@@ -142,7 +148,7 @@ Analysis of daily tweets during the US- election 2020 provides us current news e
 
 ## 8. Results:
 
-In this section, we present the results of the data analysis performed over the course of the study. With the help of some prefatory findings, we understood the sentiment of the data, found the numerical statistics of the positive and negative tweets, and set a trend that successfully predicted the results of the 2020 U.S. presidential elections. Through the help of profound data analysis, we validated our hypotheses presented in the previous section. 
+In this section, we present the results of the data analysis performed throughout the study. With the help of some prefatory findings, we understood the sentiment of the data, found the numerical statistics of the positive and negative tweets, and set a trend that successfully predicted the results of the 2020 U.S. presidential elections. Through the help of profound data analysis, we validated our hypotheses presented in the previous section. 
 
 The initial step of the analysis involves analyzing the data in two methods: individual candidate analysis and combined candidate analysis. Both the methods involved assigning tweets with individual sentiment scores and averaging these scores accordingly. Performing these steps, we will achieve positive and negative sentimental scores towards the candidates and get to compare these scores with each other. This way, we see an overall opinion about the candidates. We also get to monitor the conversations taking place over the topic of the election. The attitude towards the candidates is strongly positive from their inner circles. When it came to the general public, however, both candidates received negative feedback.
 
@@ -190,27 +196,9 @@ Based on the visualization analysis with predicted tweets from Twitter the predi
 
 ## 10. Acknowledgments:
 
-Would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and the associate instructors for providing continuous guidance and feedback for this final project.
+Would like to thank Dr. Gregor von Laszewski, Dr. Geoffrey Fox, and the associate instructors for providing continuous guidance and feedback for this final project.
 
-## 11. Plan for the rest of the Semester:
-
-October 26:
-- Furthur looking into new datasets and getting new Twitter data. 
-- Brainstorm ideas for future engineering and build features
-- update the report.
-
-November 2:
-- Working on creating a function to download the content. Remove the spaces in the project.
-
-November 9:
-- Completed major part of the notebook, uploaded only necessary files, and modified the code.
-
-November 16:
-- Results were derived and compared with actual results, posted at sub-section 6.
-
-
-
-## 12. References:
+## 11. References:
 
 [^1]: Taken election dataset <https://www.kaggle.com/kerneler/starter-2020-united-states-e6a4facf-a>
 
