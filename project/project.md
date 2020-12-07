@@ -14,6 +14,7 @@ Vishwanadham Mandala, Indiana University, fa20-523-325, vishwandh.mandala@gmail.
 - [x] not addressed: use proper sentences. we see several sentence fragments.
 - [ ] use proper grammer.
 - [ ] use proper sentences see section 6
+- [ ] section 7 starts as ppt, you do not describe how you sanized the data
 - [x] see issues in github and do not close them if you have not fixed them
 - [x] you have obviously not run a grammer and spell checker such as grammerly on the entire paper
 - [ ] section hedares must not have :
