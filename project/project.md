@@ -2,7 +2,7 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-316/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-316/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-316/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-316/actions)
-Status: in progress
+Status: final
 
 Sudheer Alluri, Indiana University, fa20-523-316, ngsudheer@gmail.com
 
