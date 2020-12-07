@@ -12,13 +12,13 @@ Vishwanadham Mandala, Indiana University, fa20-523-325, vishwandh.mandala@gmail.
 
 - [x] not addressed: check spaces befor and after .
 - [x] not addressed: use proper sentences. we see several sentence fragments.
-- [ ] use proper grammer.
-- [ ] use proper sentences see section 6
-- [ ] section 7 starts as ppt, you do not describe how you sanized the data
+- [x] use proper grammer.
+- [x] use proper sentences see section 6
+- [x] section 7 starts as ppt, you do not describe how you sanized the data, explained how I sanitized from section 5 and 6
 - [x] see issues in github and do not close them if you have not fixed them
 - [x] you have obviously not run a grammer and spell checker such as grammerly on the entire paper
-- [ ] section hedares must not have :
-- [ ] remove plan section or is this supposed to be not a final paper?
+- [x] section hedares must not have :
+- [x] remove plan section or is this supposed to be not a final paper?
 - [x] content is not spell checked. Suggestion: use grammarly
 
 - [x] please use proper refernce citations, they must be cited in text not cited see our template
@@ -42,7 +42,7 @@ Vishwanadham Mandala, Indiana University, fa20-523-325, vishwandh.mandala@gmail.
 
 {{% pageinfo %}}
 
-## Abstract
+## Abstract:
 
 Sentiment analysis is an evaluation of the opinion of the speaker, writer, or other subjects about some topic. We are going to use the US-elections dataset and combining the tweets of people's opinions for leading presidential candidates. We have various datasets from Kaggle and combining tweets and NY times datasets, by combining all data prediction will be derived.
 
@@ -78,8 +78,7 @@ One thing we are going to avoiding is the use of polls as source material. Many 
 
 There are more than approximately 80 million active users of Twitter in the United States of America and Twitter makes an ideal case study of social media usage in political discourse.
 Our project has two main sections of data sets in it. The primary section contains candidate information and previous presidential election data, and the second containing twitter data. We believed the second needed more time because the first dataset contained straightforward facts while the twitter dataset is more susceptible to different perspectives and viewpoints.
-In this project, we are analyzing Twitter data of key presidential candidates and other key supporters. We gathered the data from Kaggle datasets. Data is mainly divided into 3 subcategories. Tweets made by key personnel.Twitter profiles of the two candidates(all info including followers, following, number of tweets, etc.).The final category involves graphs for visualization purposes. A problem with Twitter data is the fact that it is huge. We are using google drive and with it comes the problem of storage. To combat this we are only using 4 twitter data sets. The datasets of Donald J. Trump, Joe Biden, Kamala Harris, and Mike Pence. We also downloaded these data sets to use them locally. There are mainly 3 types of formats used in everyday twitter use: images, text, and video. Only text will be used in this project because others are not useful for the
-experiment. Our project mostly uses Twitter data as support to the primary dataset. It is there to strengthen the already predicted result. The reason why we cannot make the twitter data set our primary data set is that the data(tweets) are mostly opinion based with only some exceptions. So we cannot predict with the Twitter data, however, it
+In this project, we are analyzing Twitter data of key presidential candidates and other key supporters. We gathered the data from Kaggle datasets. Data is mainly divided into 3 subcategories. Tweets made by key personnel.Twitter profiles of the two candidates(all info including followers, following, number of tweets, etc.).The final category involves graphs for visualization purposes. A problem with Twitter data is the fact that it is huge. We are using google drive and with it comes the problem of storage. To combat this we are only using 4 twitter data sets. The datasets of Donald J. Trump, Joe Biden, Kamala Harris, and Mike Pence. We also downloaded these data sets to use them locally. There are mainly 3 types of formats used in everyday twitter use: images, text, and video. Only text will be used in this project because others are not useful for the experiment. Our project mostly uses Twitter data as support to the primary dataset. It is there to strengthen the already predicted result. The reason why we cannot make the twitter data set our primary data set is that the data(tweets) are mostly opinion based with only some exceptions. So we cannot predict with the Twitter data, however, it
 can be used to show public support which will be vital in supporting the prediction derived from the primary data set. So, we found many twitter data sets on Kaggle and used certain parts from each to make our final four. The difference between the background sets and our final four datasets is the fact that they used Twitter data as their primary dataset while we are using Twitter data as our secondary dataset. We realized that twitter data is best used as secondary data that supports the primary dataset, which is more fact-based. We can use three of the four OSoMe tools available: trends, networking, and maps. Trends and networking can be combined to find a group that involves every user that is taking part in the elections in some way. Mapping can show these users and their location. Giving us the area based result that we seek. However, this method is already a part of our project. Because all this data is in Kaggle in a wider array. Which gave us the option to condense into four large data sets.
 
 Our methodology comprised of following steps:
@@ -115,10 +114,7 @@ abnormally high tweet rates. We have also filted our dataset by replaced the exi
 	
 ## 6. Technologies used:
 
-Python, Jupyter notebook or collab, Pandas, Scikit-learn, wget
-
-Used Pandas to extract details of candidates and wget to download data dynamically from Kaggle. 
-Scikit-learn is used for graphical representation of candidates along with liked tweets.
+In this project Python 3 and Google Colab Jupyter Notebook were used to build the notebook. Also several Python packages were employed in this exploration such as Pandas, Numpy, Matplotlib, sklearn, wget.
 
 ## 7. Analysis Of User Behavior:
 
