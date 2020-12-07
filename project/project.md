@@ -10,6 +10,7 @@ Vishwanadham Mandala, Indiana University, fa20-523-325, vishwandh.mandala@gmail.
 
 [Edit](https://github.com/cybertraining-dsc/fa20-523-316/blob/master/project/project.md)
 
+- [ ] section hedares must not have :
 - [x] not addressed: check spaces befor and after .
 - [x] not addressed: use proper sentences. we see several sentence fragments.
 - [x] use proper grammer.
@@ -17,7 +18,6 @@ Vishwanadham Mandala, Indiana University, fa20-523-325, vishwandh.mandala@gmail.
 - [x] section 7 starts as ppt, you do not describe how you sanized the data, explained how I sanitized from section 5 and 6
 - [x] see issues in github and do not close them if you have not fixed them
 - [x] you have obviously not run a grammer and spell checker such as grammerly on the entire paper
-- [x] section hedares must not have :
 - [x] remove plan section or is this supposed to be not a final paper?
 - [x] content is not spell checked. Suggestion: use grammarly
 
