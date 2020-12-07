@@ -222,3 +222,9 @@ November 16:
 [^6]: Machine learning <https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN>
 
 [^7]: Wikipedia <https://en.wikipedia.org/wiki/Sentiment_analysis>
+
+[^8]: Few details taken from  <https://www.prnewswire.com/news-releases/2020-presidential-election-jumptuits-observation-based-trending-data-and-sentiment-analysis-provides-more-accurate-results-than-traditional-polls-301167313.html>
+
+[^9]: Analysis followed from <https://ieee-dataport.org/open-access/usa-nov2020-election-20-mil-tweets-sentiment-and-party-name-labels-dataset>
+
+[^10]: Code referred from <https://github.com/jijopjames/US-election-2020-sentiment-analysis>
