@@ -16,6 +16,7 @@ Vishwanadham Mandala, Indiana University, fa20-523-325, vishwandh.mandala@gmail.
 - [x] see issues in github and do not close them if you have not fixed them
 - [x] you have obviously not run a grammer and spell checker such as grammerly on the entire paper
 - [ ] section hedares must not have :
+- [ ] remove plan section or is this supposed to be not a final paper?
 - [x] content is not spell checked. Suggestion: use grammarly
 
 - [x] please use proper refernce citations, they must be cited in text not cited see our template
