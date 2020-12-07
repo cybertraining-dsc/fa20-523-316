@@ -143,7 +143,7 @@ In this section, we present the results of the data analysis performed over the 
 
 The initial step of the analysis involves analyzing the data in two methods: individual candidate analysis and combined candidate analysis. Both the methods involved assigning tweets with individual sentiment scores and averaging these scores accordingly. Performing these steps, we will achieve positive and negative sentimental scores towards the candidates and get to compare these scores with each other. This way, we see an overall opinion about the candidates. We also get to monitor the conversations taking place over the topic of the election. The attitude towards the candidates is strongly positive from their inner circles. When it came to the general public, however, both candidates received negative feedback.
 
-The mentality of the whole public can never be properly depicted by a single dataset.
+The mentality of the whole public can never be properly depicted by a single dataset. Furthermore, you cannot assume that the data recorded and analyzed from Twitter will be genuine in all regions. However, it can be a good representation due to its ability to empower users by allowing them to freely share their views and opinions.
 
 After all the data was collected, we have formatted the candidate's information and cleaned the Twitter data. After closely watching the Twitter data
 with the graphical representation, we predicted the results. 
