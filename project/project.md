@@ -10,7 +10,7 @@ Vishwanadham Mandala, Indiana University, fa20-523-325, vishwandh.mandala@gmail.
 
 [Edit](https://github.com/cybertraining-dsc/fa20-523-316/blob/master/project/project.md)
 
-- [ ] section hedares must not have :
+- [ ] SECTION HEADERS MUST NOT HAVE A COLON AT THE END
 - [x] not addressed: check spaces befor and after .
 - [x] not addressed: use proper sentences. we see several sentence fragments.
 - [x] use proper grammer.
