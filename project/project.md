@@ -2,7 +2,7 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-316/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-316/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-316/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-316/actions)
-Status: final, Type: Project
+Status: in progress, Type: Project
 
 Sudheer Alluri, Indiana University, fa20-523-316, ngsudheer@gmail.com
 
@@ -15,7 +15,7 @@ Vishwanadham Mandala, Indiana University, fa20-523-325, vishwandh.mandala@gmail.
 - [x] use proper grammer.
 - [x] see issues in github and do not close them if you have not fixed them
 - [x] you have obviously not run a grammer and spell checker such as grammerly on the entire paper
-- [x] section hedares must not have :
+- [ ] section hedares must not have :
 - [x] content is not spell checked. Suggestion: use grammarly
 
 - [x] please use proper refernce citations, they must be cited in text not cited see our template
