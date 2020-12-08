@@ -42,7 +42,7 @@ Vishwanadham Mandala, Indiana University, fa20-523-325, vishwandh.mandala@gmail.
 
 {{% pageinfo %}}
 
-## Abstract:
+## Abstract
 
 Sentiment analysis is an evaluation of the opinion of the speaker, writer, or other subjects about some topic. We are going to use the US-elections dataset and combining the tweets of people's opinions for leading presidential candidates. We have various datasets from Kaggle and combining tweets and NY times datasets, by combining all data prediction will be derived.
 
@@ -55,18 +55,18 @@ Contents
 **Keywords:** sentiment,  US-election
 
 
-## 1. Introduction:
+## 1. Introduction
 
 For our final project, we are focusing on the upcoming U.S. presidential elections. More specifically, we are attempting to predict the winner of the 2020’s U.S. elections. As many people across the world know, the United States Presidential election is a very grand and important political event for the people and government of the United States of America. Not only that, the results of this election will impact the world as a whole. This year, there were many candidates. However, the election boiled down to the Democrat candidate, Joe Biden, fighting against the current Republican President of the United States of America, Donald J. Trump. There are many problems that we can run into while predicting the winner. We run into problems like finding an unbiased source or handling the size of the data. However, we believe that we found a pathway that solves all problems and effectively predicts the results of this year’s presidential election. We plan to use a US-elections dataset to predict the votes each contestant will attain, by area. With growing data, the prediction will be changing constantly. We are making the difference by selecting the latest dataset available and previous election data to predict the number of votes each contestant will get to the closest figure. A feature we are introducing to enhance the quality is predicting various area types like counties, towns, and/or big cities.
 One might argue that these kinds of predictions will only be helping organizations and not individuals. We assure you that this project will be helping the general public in many ways. The most evident being, an individual knowing which contestant his/her community or the general public around him/her prefer. This project is strictly statistical and does not have a goal to sway the elections in any way or to pressure an individual into picking a candidate. Overall, this is just a small step towards a future that might hold an environment where the next president of the United States of America could be accurately guessed based on previous data and innovative Big Data Technologies.
 
-## 2. Background Research and Previous Work:
+## 2. Background Research and Previous Work
 
 After reading wiki/Sentiment_analysis came with a concrete idea of sentimental analysis and choose the election topic since it is the latest ongoing trend
 in the USA and the dataset can be easily refreshed. Social media use is at an all-time historic high for the United States, so we considered one popular social media
 platform, Twitter, and tried to see if we could predict how a group of people felt about an issue by only using posts from social media. For our research, we looked at tweets that focused on the 2020United States presidential election. Using these tweets, we tried to find a correlation between tweet sentiment and the election results. We wrote a program to collect tweets that mentioned one of the two candidates along with selected vice presidents, then sorted the tweets by state and developed a sentiment algorithm to see which candidate the tweet favored, or if it was neutral.
 
-## 3. DataSets:
+## 3. DataSets
 
 By using the dataset [^1] and filets are based on location. If needed, we may download Twitter data from posts on and by Donald Trump, Joe Biden, and their associates. Which leads us to our objective for the project, based on the data we collected, we should be able to predict the winner of the 2020 United States of America’s presidential elections.
 
@@ -74,7 +74,7 @@ All of the data will be location-based and if required we will download real-tim
 In conclusion, to make our predictions as realistic and as strong as we can get, selected multiple data sets to integrate between the previous election and Twitter data to predict the number of votes each candidate will acquire. Therefore, we are predicting the winner of the 2020 presidential elections. 
 One thing we are going to avoiding is the use of polls as source material. Many problems will arise with the use of polls. The benefits are questionable and outweighed. For one thing, the result of a poll is not concrete. One can just select a random candidate or purposely vote a candidate for an unjustified reason. One of the bigger problems is impartiality. The problem arises with the concept of an internet website, where most if not all polls are being conducted. The internet is designed so people with common interests end up at the same website. Therefore, if a poll conducting website has an audience of voters that favor one of the candidates, the results will be biased, impartial, and won’t represent the true feelings of the public. There are also thousands of these polls. Even if there are non-biased polls, one may not be able to identify them and interpret them before the end of the elections. Even if we assume that there are more unbiased polls, the sheer number will be impossible to use, and losing any might decrease the number of unbiased and raise the number of biased polls. The results of some polls are even meaningless. This can occur due to small voting numbers. If only 15 people vote, the results will not represent the mass public. The fact is that it is very hard for polls to attract voters. Without a poll achieving all these requirements and more, it will not be considered legitimate or be taken seriously. Even the actual elections require mass advertisement for people to show up. During October of an election year, there are thousands of advertisements and endorsements with the sole purpose of acquiring voters. Now the elections have government funding for these ads. Polls do not have the time or funding to attract these masses to vote. They have to suffice with the number and demographics of their voters.  Which is the biggest reason why most polls are useless. Even mega corporations that conduct polls fall to more than one of these mistakes. Rendering them nugatory.
 
-## 4. Methodology/Process:
+## 4. Methodology/Process
 
 There are more than approximately 80 million active users of Twitter in the United States of America and Twitter makes an ideal case study of social media usage in political discourse.
 Our project has two main sections of data sets in it. The primary section contains candidate information and previous presidential election data, and the second containing twitter data. We believed the second needed more time because the first dataset contained straightforward facts while the twitter dataset is more susceptible to different perspectives and viewpoints.
@@ -91,7 +91,7 @@ Our methodology comprised of following steps:
 Used Python to load Twitter data which is gathered from Kaggle, used Pandas library for data cleaning and extraction of each tweet's associated metadata.
 Seaborn library has been used for data visualization.
 
-## 5. Development of Models:
+## 5. Development of Models
 
 Our approach to finding the information of candidates and get the age, tweets information, and what are the keywords used and what words are liked more.
 Based on liked tweets and buzz words used, we are predicting the winner.
@@ -106,17 +106,17 @@ Based on liked tweets and buzz words used, we are predicting the winner.
     Used to extract the data and clean the tweets.
     Seaborn and Matlab, used to represent the status of elections in the graphs.
 	
-### 5.1 Removing Noise from Data:
+### 5.1 Removing Noise from Data
 
 To increase accuracy of our analysis, the next step is to remove noise from our dataset. Presence of spam on Twitter is a well known phenomenon. Although Twitter tries hard to idntify and remove 
 automated accounts, not everything are easily identifiable.  In order to identify and remove spam present in our dataset, we removed tweets belonigng to accounts having 
 abnormally high tweet rates. We have also filted our dataset by replaced the existing words with keywords and assigned the tweet id.
 	
-## 6. Technologies used:
+## 6. Technologies used
 
 In this project Python 3 and Google Colab Jupyter Notebook were used to build the notebook. Also several Python packages were employed in this exploration such as Pandas, Numpy, Matplotlib, sklearn, wget.
 
-## 7. Analysis Of User Behavior:
+## 7. Analysis Of User Behavior
 
 Data is sanitized as metnioned in [^5.1], we then proceed in data mining and analysis techniques to perform data analytics and find useful information.  We tried to find evidence
 supporting some of our beliefs that by reviewing Twitter data for insights into user behavior and tweeting patterns.
@@ -136,13 +136,13 @@ creates complexities for users in having to handle multiplicity and one-to-one c
 
 Based on the above discussion, we assume similar behavior amongst the users of our dataset and believe that there will be a  high number of one-to-one messaging indicating interactive political dialogue.
 
-### Hypothesis 3: Popular terms in Twitter discussion are significant real-world events and plays major role in elections:
+### Hypothesis 3: Popular terms in Twitter discussion are significant real-world events and plays major role in elections.
 
 Several studies have been conducted to conclude Twitter is used as a real-time latest news identification tool and studies have claimed that based on trending topics active period of tweets showed that as many as 85% of topics are headlines or persistent in real-world news.
 
 Analysis of daily tweets during the US- election 2020 provides us current news events taking place in the real world. We analyzed high-frequency terms to justify our hypothesis.
 
-## 8. Results:
+## 8. Results
 
 In this section, we present the results of the data analysis performed throughout the study. With the help of some prefatory findings, we understood the sentiment of the data, found the numerical statistics of the positive and negative tweets, and set a trend that successfully predicted the results of the 2020 U.S. presidential elections. Through the help of profound data analysis, we validated our hypotheses presented in the previous section. 
 
@@ -185,16 +185,16 @@ Reference image: <https://www.kaggle.com/radustoicescu/2020-united-states-presid
 
 
 
-## 9. Conclusion:
+## 9. Conclusion
 
 So, we've taken a quick look at the sentiment of tweets. There are a lot of analysis variants. It looks great to study the tweets by each Twitter account and therefore don't cover the actual situation since restriction to data. 
 Based on the visualization analysis with predicted tweets from Twitter the predicted winner is projected. The sentiment analysis was performed only on data that had geo-data originating from the "United States of America" to try to ascertain the sentiment in each respective dataset and therefore each presidential candidate.
 
-## 10. Acknowledgments:
+## 10. Acknowledgments
 
 Would like to thank Dr. Gregor von Laszewski, Dr. Geoffrey Fox, and the associate instructors for providing continuous guidance and feedback for this final project.
 
-## 11. References:
+## 11. References
 
 [^1]: Taken election dataset <https://www.kaggle.com/kerneler/starter-2020-united-states-e6a4facf-a>
 
