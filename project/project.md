@@ -5,6 +5,7 @@ linkTitle: Sentiment
 tags: ["project", "ai", "lifestyle"]
 description: "Sentiment analysis is an evaluation of the opinion of the speaker, writer, or other subjects about some topic. We are going to use the US-elections dataset and combining the tweets of people's opinions for leading presidential candidates. We have various datasets from Kaggle and combining tweets and NY times datasets, by combining all data prediction will be derived."
 author: Sudheer Alluri, Vishwanadham Mandala
+github_url: https://github.com/cybertraining-dsc/fa20-523-316/edit/main/project/project.md
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
